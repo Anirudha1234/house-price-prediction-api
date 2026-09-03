@@ -1,0 +1,10 @@
+venv/
+__pycache__/
+.pytest_cache/
+tests/
+.git/
+*.pyc
+*.ipynb
+learn_get_post.py
+learn_path_query_p.py
+.env
